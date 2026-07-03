@@ -1,0 +1,8 @@
+node_modules/
+*.zip
+*.tar.gz
+deploy.js
+deploy.cjs
+surge-deploy.mjs
+package.json
+package-lock.json
